@@ -4,7 +4,7 @@ The app will allow users to create healthy meal plans acording to their deit pre
 
 # MVP
 
-## App Functionality
+#### App Functionality
 
 App will allow users to create a new account
 
@@ -37,7 +37,7 @@ App will allow users to Search Meals
 App will allow users to edit Meal Plans
 
 
-## User Experince
+#### User Experince
 
 Users will be able to create an account
 
@@ -57,7 +57,7 @@ Users will be able to Generate a Grocery List
 
 Users can search for Meals
 
-## Future Functionality
+#### Future Functionality
 
 App will allow users to Track intake
 
